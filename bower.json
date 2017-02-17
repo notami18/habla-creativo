@@ -1,0 +1,27 @@
+{
+  "name": "Consumiendo datos remotos",
+  "authors": [
+    "Andrés notami <andresnotami@gmail.com>"
+  ],
+  "description": "Prueba para saber como se consumen apis rest en angular.js",
+  "main": "",
+  "license": "MIT",
+  "homepage": "home",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "^1.6.2",
+    "bootstrap": "~3.3.5",
+    "angular": "^1.6.2",
+    "angular-material": "^1.1.3",
+    "angular-route": "^1.6.2"
+  },
+  "devDependencies": {
+    "materialize": "^0.98.0"
+  }
+}
